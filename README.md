@@ -179,3 +179,9 @@ Projeto desenvolvido para estudo e prática de:
 - Controle de perfil/permissão por usuário
 - Relatórios de vendas por período
 - Exportação CSV/PDF
+
+## 13. Guia de Clone para Novos Clientes
+
+Para replicar este sistema para outro cliente (código + banco + deploy), use:
+
+- [docs/CLONE_CLIENTE.md](docs/CLONE_CLIENTE.md)
